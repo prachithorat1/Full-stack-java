@@ -1,1 +1,2 @@
-
+What is programming ?
+it is a midway to communicate with the machine, there are different type of languages to communicate with the machine, machine only understand low level language binary language which means 010101010 but we cannot understand this language so to communicate with the machine we have to understand programming language 
