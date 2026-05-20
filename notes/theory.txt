@@ -7,4 +7,8 @@ What is fullstack?
 Fullstack means combination front-end, back-end and database.
 
 What is Java?
-Java was invented in 
+Java was invented in 1995
+
+20/05/26
+
+Java is general purpose, high level, compiled, interpreted, static, object oriented, function oriented language.
