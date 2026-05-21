@@ -10,5 +10,12 @@ What is Java?
 Java was invented in 1995
 
 20/05/26
-
 Java is general purpose, high level, compiled, interpreted, static, object oriented, function oriented language.
+
+21/05/26
+JDK = JAVA DEVELOPMENT KIT (compiler)
+JRE = JAVA RUNTIME ENVIRONMENT
+JVM = JAVA VIRTUAL MACHINE (interpretor)
+
+This 3 are inter connected all 3 are important if anything is missing the java program will not run
+
