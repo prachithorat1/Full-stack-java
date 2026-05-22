@@ -12,6 +12,23 @@ Java was invented in 1995
 20/05/26
 Java is general purpose, high level, compiled, interpreted, static, object oriented, function oriented language.
 
+1.General purpose 
+this means we can run anywhere, at any time, on any platform
+
+2. High level 
+this means human can understand the code, it is in english, it is human understandable
+
+3.Compiled
+this means
+
+4.Interpreted
+
+5. static
+
+6.object-oriented
+
+7.function oriented
+
 21/05/26
 JDK = JAVA DEVELOPMENT KIT (compiler)
 JRE = JAVA RUNTIME ENVIRONMENT
