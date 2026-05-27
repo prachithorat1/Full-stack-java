@@ -47,6 +47,10 @@ JDK = JAVA DEVELOPMENT KIT (compiler)
 JRE = JAVA RUNTIME ENVIRONMENT
 JVM = JAVA VIRTUAL MACHINE (interpretor)
 
+what is compiler?
+compiler is a translator which will convert the code into byte code 
+demo.java -> demo.class -> demo.exe
+
 This 3 are inter connected all 3 are important if anything is missing the java program will not run
 
 JDK contains JRE and JVM inside it they all are inter-connected to each other 
@@ -60,4 +64,7 @@ JDK contains JRE and JVM inside it they all are inter-connected to each other
 25/03/26
 
 26/03/26
+
+27/03/26
+
 
