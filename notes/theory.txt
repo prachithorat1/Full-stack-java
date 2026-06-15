@@ -61,10 +61,93 @@ JDK contains JRE and JVM inside it they all are inter-connected to each other
 
 24/05/26
 
-25/03/26
+25/05/26
 
-26/03/26
+26/05/26
 
-27/03/26
+27/05/26
+
+28/05/26
+
+29/05/26
+
+30/05/26
+
+31/05/26
+
+01/06/26
+
+02/06/26
+
+03/06/2016
+
+04/06/2026
+
+05/06/2026
+
+06/06/2026
+
+07/06/2026
+
+08/06/2026
+
+09/06/2026
+
+10/06/2026
+
+11/06/2026
+
+12/06/2026
+
+13/06/2026
+
+14/06/2026
+
+15/06/2026
+
+WHAT IS OOPS?
+OOPS stands for object oriented programming structure/system
+OOPS is a way to write a program 
+we need to understand class and object to implement oops
+OOPS provide 4 important pillar 
+1. Inheritance - pareant -----> child
+2. Polymorphism - many behaviour
+3. Abstraction - security
+4. Encapsulation - security
+
+what i have to learn to understand OOPS
+class
+object 
+constructor
+method 
+types of variables
+types of methods
+inheritance and its types
+this keyword
+super keyword
+types of polymorphism
+method overloading
+method overriding 
+metod hidding
+abstract class
+abstract method 
+interface 
+encapsulation
+getter method
+setter method
+
+CLASS
+this does not require memory
+its a kind of blueprint
+
+
+METHOD
+it contains memory like a specific name 
+its also known as object 
+
+TYPES OF VARIABLE
+local - its inside the function,scope is inside the fuction
+static - requires a static varialbe 
+instance - define outside the function its scope is all over
 
 
