@@ -150,4 +150,5 @@ local - its inside the function,scope is inside the fuction
 static - requires a static varialbe 
 instance - define outside the function its scope is all over
 
+25/07/26
 
